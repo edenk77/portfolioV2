@@ -3986,6 +3986,7 @@ input[type="button"].btn--primary:focus {
     background-color: white;
     position: relative;
     overflow: hidden;
+    
 }
 
 .folio-item__thumb::before {
@@ -4036,6 +4037,7 @@ input[type="button"].btn--primary:focus {
     margin: 0;
     -webkit-transition: all, .5s;
     transition: all, .5s;
+    object-fit: cover;
 }
 
 /* on hover

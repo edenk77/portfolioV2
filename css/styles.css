@@ -4229,6 +4229,11 @@ input[type="button"].btn--primary:focus {
     position: relative;
 }
 
+.moretocomes h1{
+    color: white;
+    text-align: center;
+}
+
 .s-testimonials__bg {
     display: block;
     position: absolute;
